@@ -1,5 +1,5 @@
 # Yoni Jacobi - Full Stack Developer
-linkdin: https://www.linkedin.com/in/yoni-jacobi/
+<a href="https://www.linkedin.com/in/yoni-jacobi/">linkedin</a>
 
 ## Intro
 Full Stack developer, especially Python and Javascript enviroments and also familiar with cloud services. A team player, quickly learns new technologies and always looks for something challenging
