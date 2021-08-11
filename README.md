@@ -30,7 +30,7 @@ Full Stack developer, especially Python and Javascript enviroments and also fami
 
 ## Skills
 **Python**
-- Lots of experience with web frameworks (django, flask, turbogears, bottle). also familiar with the REST frameworks - django rest framework, flask restful
+- Lots of experience with web frameworks (django, flask, turbogears, bottle). also advanced with with the REST frameworks - django rest framework, flask restful
 - Advanced with dependencies manage tools: venv, pipenv, poetry
 - Well versed with ORM such as SQLalchemy and django ORM
 - Experienced with TDD and working with tests libs: pytest, unittest, nose
@@ -52,7 +52,7 @@ Full Stack developer, especially Python and Javascript enviroments and also fami
 - Deploying serverless apps with aws lambda behind API gateway, S3 trigger or straight invoke
 
 **DevOps**
-- Good understanding of the containerized development
+- Good understanding of the containerized deployment
 - Familiar with docker - writing Dockerfile and docker-compose.yml files
 - Familiar with git and git platforms such as github and gitlab
 - Good understanding of CI/CD and pipelines
@@ -68,6 +68,5 @@ Full Stack developer, especially Python and Javascript enviroments and also fami
 - Coding since 2010
 - Languages: Hebrew, English
 - Bachelor of Education from Beit-Berl College
-- Comes from the world of education and society
-- For fun - Sports (especially basketball if i not get injured..), hiking and baking
+
 
