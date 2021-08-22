@@ -1,5 +1,4 @@
 # Yoni Jacobi - Full Stack Developer
-<a href="https://www.linkedin.com/in/yoni-jacobi/">linkedin</a>
 
 ## Intro
 Full Stack developer, especially Python and Javascript enviroments and also familiar with cloud services. A team player, quickly learns new technologies and always looks for something challenging
@@ -64,9 +63,14 @@ Full Stack developer, especially Python and Javascript enviroments and also fami
 - Working with linux(Ubuntu) with pycharm and vscode
 - git platforms: gitlab and github
 
-## Other things...
+## Other things
 - Coding since 2010
 - Languages: Hebrew, English
 - Bachelor of Education from Beit-Berl College
+
+## Contact
+- Phone: 054-6738817
+- Email: yonyjacoby@gmail.com
+- Linkedin: <a href="https://www.linkedin.com/in/yoni-jacobi/">linkedin</a>
 
 
