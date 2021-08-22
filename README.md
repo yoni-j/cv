@@ -10,7 +10,7 @@ Full Stack developer, especially Python and Javascript enviroments and also fami
 - Techs: python, javascript, django, djnago rest framework, flask, react, angular, aws, ecs, ec2, lambda, dynamodb, rds, textract, sqs, postgresql, linux, docker, material ui, bootstrap, nodejs, npm, git
 
 **2014-2021: Dror Israel Movement**
-- Roles: Full Stack Developer, Managemant staff
+- Roles: Full Stack Developer, Management staff
 - Main activities: Information systems to supervise accounting and budget, campaigns CRM systems, services for financials reports analyze
 - Techs: python, javascript, tourbogears, flask, bottle, angular, jquery, mysql, sqlalchemy, linux, bootstrap, git
 
@@ -31,6 +31,7 @@ Full Stack developer, especially Python and Javascript enviroments and also fami
 **Python**
 - Lots of experience with web frameworks (django, flask, turbogears, bottle). also advanced with with the REST frameworks - django rest framework, flask restful
 - Advanced with dependencies manage tools: venv, pipenv, poetry
+- Advanced with OOP
 - Well versed with ORM such as SQLalchemy and django ORM
 - Experienced with TDD and working with tests libs: pytest, unittest, nose
 - A bit of ML libs: numpy, pandas, matplotlib
@@ -47,7 +48,7 @@ Full Stack developer, especially Python and Javascript enviroments and also fami
 - Some experience (a long time ago...) with develpoment of ios native apps - write in objective-c on the x-code environment
 
 **Cloud services**
-- Familiar with some AWS services: dynamodb, rds, lambda, s3, sqs, ses, textract, cloudwatch
+- Familiar with AWS services: ecs, ec2, ecr, dynamodb, rds, lambda, s3, sqs, sns, ses, textract, cloudwatch
 - Deploying serverless apps with aws lambda behind API gateway, S3 trigger or straight invoke
 
 **DevOps**
