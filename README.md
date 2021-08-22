@@ -1,7 +1,7 @@
 # Yoni Jacobi - Full Stack Developer
 
 ## Intro
-Full Stack developer, especially Python and Javascript enviroments and also familiar with cloud services. A team player, quickly learns new technologies and always looks for something challenging
+Full Stack developer, especially Python and Javascript environments and also familiar with cloud services. A team player, quickly learns new technologies and always looks for something challenging
 
 ## Experience
 **2020-2021: Drorsoft**
@@ -12,16 +12,16 @@ Full Stack developer, especially Python and Javascript enviroments and also fami
 **2014-2021: Dror Israel Movement**
 - Roles: Full Stack Developer, Management staff
 - Main activities: Information systems to supervise accounting and budget, campaigns CRM systems, services for financials reports analyze
-- Techs: python, javascript, tourbogears, flask, bottle, angular, jquery, mysql, sqlalchemy, linux, bootstrap, git
+- Techs: python, javascript, turbogears, flask, bottle, angular, jquery, mysql, sqlalchemy, linux, bootstrap, git
 
 **2021: Nitzanim program**
 - Role: Python and Javascript teacher
-- Main activites: taught 10th and 11th grade students python and javascript. it was a part of a program for students from the periphery of israel that were candidates for technology units in the IDF
+- Main activities: taught 10th and 11th grade students python and javascript. it was a part of a program for students from the periphery of israel that were candidates for technology units in the IDF
 
 **2010-2014: 4p-tech**
 - Role: Full Stack Developer
 - Main activities: web apps, cms, facebook apps, android and ios native apps
-- Techs: python, javascript, java, objecive-c, tourbogears, flask, bottle, angular, jquery, mysql, sqlalchemy, linux, bootstrap, salesforce, facebook api, git
+- Techs: python, javascript, java, objective-c, turbogears, flask, bottle, angular, jquery, mysql, sqlalchemy, linux, bootstrap, salesforce, facebook api, git
 
 **2007-2010: Hanoar Haoved vehalomed**
 - Role: Management of non-formal education activities
@@ -44,8 +44,8 @@ Full Stack developer, especially Python and Javascript enviroments and also fami
 - Good understanding of the browser api and interacting the dom. experienced with vanilla js and some old libs like jQuery
 
 **Moblie**
-- Some experience (a long time ago...) with develpoment of android native apps - write in java on the android studio environment
-- Some experience (a long time ago...) with develpoment of ios native apps - write in objective-c on the x-code environment
+- Some experience with develpoment of android native apps - write in java on the android studio environment
+- Some experience with develpoment of ios native apps - write in objective-c on the x-code environment
 
 **Cloud services**
 - Familiar with AWS services: ecs, ec2, ecr, dynamodb, rds, lambda, s3, sqs, sns, ses, textract, cloudwatch
