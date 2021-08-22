@@ -71,6 +71,6 @@ Full Stack developer, especially Python and Javascript enviroments and also fami
 ## Contact
 - Phone: 054-6738817
 - Email: yonyjacoby@gmail.com
-- Linkedin: <a href="https://www.linkedin.com/in/yoni-jacobi/">linkedin</a>
+- <a href="https://www.linkedin.com/in/yoni-jacobi/">Linkedin</a>
 
 
