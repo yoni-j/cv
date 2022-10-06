@@ -4,7 +4,12 @@
 Full Stack developer, especially Python and Javascript environments and also familiar with cloud services. A team player, quickly learns new technologies and always looks for something challenging
 
 ## Experience
-**2020-2021: Drorsoft**
+**2021-: Matific**
+- Roles: Full Stack Developer
+- Main actvivities: software architecture, automations, api backends, cloud migrations, building new features
+- Techs: python, javascript, django, djnago rest framework, angular, aws, ecs, ec2, lambda, dynamodb, rds, s3, neptune, redshift, elasticsearch, firebase, postgresql, linux, docker, npm, yarn,  git, jenkins
+
+**2019-2021: Drorsoft**
 - Roles: Full Stack Developer, Mentorship
 - Main actvivities: web apps, automations, api backends, cloud migrations, python mentoring
 - Techs: python, javascript, django, djnago rest framework, flask, react, angular, aws, ecs, ec2, lambda, dynamodb, rds, textract, sqs, postgresql, linux, docker, material ui, bootstrap, nodejs, npm, git
@@ -53,10 +58,10 @@ Full Stack developer, especially Python and Javascript environments and also fam
 
 **DevOps**
 - Good understanding of the containerized deployment
-- Familiar with docker - writing Dockerfile and docker-compose.yml files
+- Familiar with docker and orchestration tools - writing Dockerfile and docker-compose.yml files
 - Familiar with git and git platforms such as github and gitlab
 - Good understanding of CI/CD and pipelines
-- DB: Worked with PostgreSQL/MySQL/MariaDB and AWS rds. also familiar with nosql dbs: mongodb, dynamodb
+- DB: Worked with PostgreSQL/MySQL/MariaDB and AWS rds. also familiar with nosql dbs: mongodb, dynamodb, elasticsearch, neptune(graph db)
 - Familiar with the linux environment
 
 
