@@ -7,7 +7,7 @@ Full Stack developer, especially Python and Javascript environments and also fam
 **2021-: Matific**
 - Roles: Full Stack Developer
 - Main actvivities: software architecture, automations, api backends, cloud migrations, building new features
-- Techs: python, javascript, django, djnago rest framework, angular, aws, ecs, ec2, lambda, dynamodb, rds, s3, neptune, redshift, elasticsearch, firebase, postgresql, linux, docker, npm, yarn,  git, jenkins
+- Techs: python, javascript, django, djnago rest framework, angular, aws, ecs, ec2, lambda, dynamodb, rds, s3, neptune, redis, redshift, elasticsearch, firebase, postgresql, linux, docker, npm, yarn,  git, jenkins
 
 **2019-2021: Drorsoft**
 - Roles: Full Stack Developer, Mentorship
