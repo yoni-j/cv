@@ -61,7 +61,7 @@ Full Stack developer, especially Python and Javascript environments and also fam
 - Familiar with docker and orchestration tools - writing Dockerfile and docker-compose.yml files
 - Familiar with git and git platforms such as github and gitlab
 - Good understanding of CI/CD and pipelines
-- DB: Worked with PostgreSQL/MySQL/MariaDB and AWS rds. also familiar with nosql dbs: mongodb, dynamodb, elasticsearch, neptune(graph db)
+- DB: Worked with PostgreSQL/MySQL/MariaDB and AWS rds. also familiar with nosql dbs: mongodb, dynamodb, elasticsearch, neptune(graph db), redis
 - Familiar with the linux environment
 
 
