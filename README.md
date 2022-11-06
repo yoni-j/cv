@@ -9,7 +9,7 @@ Full Stack developer, especially Python and Javascript environments and also fam
 - Main actvivities: software architecture, automations, api backends, cloud migrations, building new features
 - Techs: python, javascript, django, djnago rest framework, angular, aws, ecs, ec2, lambda, dynamodb, rds, s3, neptune, redis, redshift, elasticsearch, firebase, postgresql, linux, docker, npm, yarn,  git, jenkins
 
-**2019-2021: Drorsoft**
+**2018-2021: Drorsoft**
 - Roles: Full Stack Developer, Mentorship
 - Main actvivities: web apps, automations, api backends, cloud migrations, python mentoring
 - Techs: python, javascript, django, djnago rest framework, flask, react, angular, aws, ecs, ec2, lambda, dynamodb, rds, textract, sqs, postgresql, linux, docker, material ui, bootstrap, nodejs, npm, git
