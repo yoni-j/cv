@@ -6,8 +6,8 @@ Full Stack developer, especially Python and Javascript environments and also fam
 ## Experience
 **2021-: Matific**
 - Roles: Full Stack Developer
-- Main actvivities: software architecture, automations, api backends, cloud migrations, building new features
-- Techs: python, javascript, django, djnago rest framework, angular, aws, ecs, ec2, lambda, dynamodb, rds, s3, neptune, redis, redshift, elasticsearch, firebase, postgresql, linux, docker, npm, yarn,  git, jenkins
+- Main actvivities: software architecture, microservices, api backends, cloud migrations, building new features, design new architectre for existing features and code refactoring
+- Techs: python, django, djnago rest framework, javascript, typescript, angular, aws, ecs, ec2, lambda, dynamodb, rds, s3, neptune, redis, redshift, elasticsearch, firebase, postgresql, linux, docker, npm, yarn,  git, jenkins
 
 **2018-2021: Drorsoft**
 - Roles: Full Stack Developer, Mentorship
@@ -39,10 +39,12 @@ Full Stack developer, especially Python and Javascript environments and also fam
 - Advanced with OOP
 - Well versed with ORM such as SQLalchemy and django ORM
 - Experienced with TDD and working with tests libs: pytest, unittest, nose
+- Familiar with Multiprocessing, Multithreading and asyncio
 - A bit of ML libs: numpy, pandas, matplotlib
 
 **Javascript**
 - Familiar with the node.js environment: npm, nvm, yarn
+- Familiar with typescript
 - Some experience with express.js
 - Good understanding of the asynchronous operation and promises
 - using react and advanced with react hooks. also familiar with angular and vue
@@ -53,7 +55,7 @@ Full Stack developer, especially Python and Javascript environments and also fam
 - Some experience with develpoment of ios native apps - write in objective-c on the x-code environment
 
 **Cloud services**
-- Familiar with AWS services: ecs, ec2, ecr, dynamodb, rds, lambda, s3, sqs, sns, ses, textract, cloudwatch
+- Familiar with AWS services: ecs, ec2, ecr, dynamodb, rds, lambda, s3, sqs, sns, ses, textract, cloudwatch, neptune, cloudfront, step functions
 - Deploying serverless apps with aws lambda behind API gateway, S3 trigger or straight invoke
 
 **DevOps**
