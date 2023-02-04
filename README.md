@@ -1,32 +1,31 @@
-# Yoni Jacobi - Full Stack Developer
+# Yoni Jacobi – Software Developer
 
-## Intro
-Full Stack developer, especially Python and Javascript environments and also familiar with cloud services. A team player, quickly learns new technologies and always looks for something challenging
+## Summary
+Highly skilled and experienced Software Developer with expertise in both Python and JavaScript environments. Proficient in cloud services, particularly AWS, and experienced in software architecture, microservices, API backends, and database management. A committed team player with a passion for delivering high-quality software and continuously learning new technologies. Seeking a challenging role in a dynamic organization where I can apply my skills and make a meaningful impact.
 
 ## Experience
-**2021-: Matific**
-- Roles: Full Stack Developer
-- Main actvivities: software architecture, microservices, api backends, cloud migrations, building new features, design new architectre for existing features and code refactoring
-- Techs: python, django, djnago rest framework, javascript, typescript, angular, aws, ecs, ec2, lambda, dynamodb, rds, s3, neptune, redis, redshift, elasticsearch, firebase, postgresql, linux, docker, npm, yarn,  git, jenkins
+**2021-: Matific, Software Developer**
+- Responsibilities: Software architecture, microservices, API backends, cloud migrations, building new features, redesigning architecture for existing features, code refactoring
+- Technologies: Python, Django, Django Rest Framework, JavaScript, TypeScript, Angular, AWS (ECS, EC2, Lambda, DynamoDB, RDS, S3, Neptune, Redshift),  Elasticsearch, Firebase, Redis, PostgreSQL, Linux, Docker, NPM, Yarn, Git, Jenkins, GitHub Actions, CDK
+- Accomplishments: Successfully developed several main features of the product, including an adaptive algorithm for learning levels based on graph data and refactored core architectures to improve code maintenance, performance, and user experience.
 
-**2018-2021: Drorsoft**
-- Roles: Full Stack Developer, Mentorship
-- Main actvivities: web apps, automations, api backends, cloud migrations, python mentoring
-- Techs: python, javascript, django, djnago rest framework, flask, react, angular, aws, ecs, ec2, lambda, dynamodb, rds, textract, sqs, postgresql, linux, docker, material ui, bootstrap, nodejs, npm, git
+**2018-2021: Drorsoft, Software Developer and Mentor**
+- Responsibilities: Web apps, automations, API backends, cloud migrations, mentoring new developers in Python
+- Technologies: Python, JavaScript, Django, Django Rest Framework, Flask, React, Angular, AWS (ECS, EC2, Lambda, DynamoDB, RDS, Textract, SQS), PostgreSQL, Linux, Docker, Material UI, Bootstrap, NodeJS, NPM, Git
+- Accomplishments: One of the leading developers of the company from its first day, worked on several projects to generate revenue for the company and provided mentorship to new developers.
 
-**2014-2021: Dror Israel Movement**
-- Roles: Full Stack Developer, Management staff
-- Main activities: Information systems to supervise accounting and budget, campaigns CRM systems, services for financials reports analyze
-- Techs: python, javascript, turbogears, flask, bottle, angular, jquery, mysql, sqlalchemy, linux, bootstrap, git
 
-**2021: Nitzanim program**
-- Role: Python and Javascript teacher
-- Main activities: taught 10th and 11th grade students python and javascript. it was a part of a program for students from the periphery of israel that were candidates for technology units in the IDF
+**2014-2021: Dror Israel Movement, Full Stack Developer and Management Staff**
+- Responsibilities: Information systems for accounting and budget supervision, CRM systems for campaigns, services for financial report analysis
+- Technologies: Python, JavaScript, TurboGears, Flask, Bottle, Angular, jQuery, MySQL, SQLAlchemy, Linux, Bootstrap, Git
+- Accomplishments: Built internal organizational information systems used by hundreds of users in the organization.
 
-**2010-2014: 4p-tech**
-- Role: Full Stack Developer
-- Main activities: web apps, cms, facebook apps, android and ios native apps
-- Techs: python, javascript, java, objective-c, turbogears, flask, bottle, angular, jquery, mysql, sqlalchemy, linux, bootstrap, salesforce, facebook api, git
+**2021: Nitzanim Program, Python and JavaScript Teacher**
+- Responsibilities: Taught 10th and 11th grade students Python and JavaScript as part of a program for students from the periphery of Israel preparing for technology units in the IDF.
+
+**2010-2014: 4p-tech, Full Stack Developer**
+- Responsibilities: Web apps, CMS, Facebook apps, Android and iOS native apps
+- Technologies: Python, JavaScript, Java, Objective-C, TurboGears, Flask, Bottle, Angular, jQuery, MySQL, SQLAlchemy, Linux, Bootstrap, Salesforce, Facebook API, Git
 
 **2007-2010: Hanoar Haoved vehalomed**
 - Role: Management of non-formal education activities
@@ -34,20 +33,18 @@ Full Stack developer, especially Python and Javascript environments and also fam
 
 ## Skills
 **Python**
-- Lots of experience with web frameworks (django, flask, turbogears, bottle). also advanced with with the REST frameworks - django rest framework, flask restful
-- Advanced with dependencies manage tools: venv, pipenv, poetry
-- Advanced with OOP
-- Well versed with ORM such as SQLalchemy and django ORM
-- Experienced with TDD and working with tests libs: pytest, unittest, nose
+- Extensive experience with web frameworks (Django, Flask, TurboGears, Bottle), advanced with REST frameworks (Django Rest Framework, Flask Restful)
+- Advanced with virtual environment management tools (Venv, Pipenv, Poetry)
+- Proficient in OOP and ORM such as SQLAlchemy and Django ORM
+- Experienced with TDD and testing libraries (PyTest, unittest, nose)
 - Familiar with Multiprocessing, Multithreading and asyncio
-- A bit of ML libs: numpy, pandas, matplotlib
 
 **Javascript**
 - Familiar with the node.js environment: npm, nvm, yarn
-- Familiar with typescript
+- Experienced with Typescript
 - Some experience with express.js
 - Good understanding of the asynchronous operation and promises
-- using react and advanced with react hooks. also familiar with angular and vue
+- Using React and advanced with React hooks. Also familiar with Angular and Vue
 - Good understanding of the browser api and interacting the dom. experienced with vanilla js and some old libs like jQuery
 
 **Moblie**
@@ -67,18 +64,13 @@ Full Stack developer, especially Python and Javascript environments and also fam
 - Familiar with the linux environment
 
 
-## Workspace
-- Working with linux(Ubuntu) with pycharm and vscode
-- git platforms: gitlab and github
-
-## Other things
-- Coding since 2010
-- Languages: Hebrew, English
+## Education
 - Bachelor of Education from Beit-Berl College
 
-## Contact
+## Personal information
 - Phone: 054-6738817
 - Email: yonyjacoby@gmail.com
 - <a href="https://www.linkedin.com/in/yoni-jacobi/">Linkedin</a>
+- Like to play Tennis, Basketball  and baking :)
 
 
