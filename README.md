@@ -1,5 +1,6 @@
 # Yoni Jacobi – Software Developer
 
+
 ## Summary
 Highly skilled and experienced Software Developer with expertise in both Python and JavaScript environments. Proficient in cloud services, particularly AWS, and experienced in software architecture, microservices, API backends, and database management. A committed team player with a passion for delivering high-quality software and continuously learning new technologies. Seeking a challenging role in a dynamic organization where I can apply my skills and make a meaningful impact.
 
